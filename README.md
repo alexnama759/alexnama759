@@ -3,11 +3,11 @@
 <p align="center">
 🎓 Estudiante de Ingeniería de Software en la Universidad Veracruzana  
 <br/>
-🚀 Apasionado por  aprender acerca DevOps, el desarrollo web y las tecnologías en la nube  
+🚀 Apasionado por aprender acerca de DevOps, el desarrollo web y las tecnologías en la nube  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexis-yahir-nava-moya">
+  <a href="www.linkedin.com/in/alexis-yahir-nava-moya-85442b302">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/alexnama759">
