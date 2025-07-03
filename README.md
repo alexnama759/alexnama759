@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/alexis-yahir-nava-moya-85442b302">
+  <a href="https://www.linkedin.com/in/alexis-yahir-nava-moya-85442b302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/alexnama759">
+  <a href="https://github.com/alexnama759" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-alexnama759-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de 6.º semestre de Ingeniería de Software en la Universidad Veracruzana.  
-Buscando en especializarme en el desarrollo backend con **Java** y **Spring Boot**, y poder aplicar la filosofia devops a los proyectos de desarrollo en los que participe, utilizando las **herramientas de la nube y github actions**
+Soy estudiante de 7.º semestre de Ingeniería de Software en la Universidad Veracruzana.  
+Buscando especializarme en el desarrollo backend con **Java** y **Spring Boot**, y poder aplicar la filosofía DevOps a los proyectos de desarrollo en los que participe, utilizando las **herramientas de la nube y GitHub Actions**.
 
-🔹 Tengo la certificación **Microsoft Azure Fundamentals**.  
+🔹 Tengo la certificación <a href="https://learn.microsoft.com/api/credentials/share/es-es/Alexynm/50CC1C26B474C542?sharingId=278A322C8DFB9A18" target="_blank"><strong>Microsoft Azure Fundamentals</strong></a>.  
 🔹 Estoy aprendiendo **GitHub Actions** para avanzar en el mundo de DevOps.  
 🔹 Obtuve el **3.º lugar en un concurso local de programación**.
 
@@ -60,4 +60,3 @@ Participación en la investigación y diseño de una base de datos simulada para
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=alexnama759&style=flat-square&color=blue" alt="Vistas del perfil"/>
 </p>
-
