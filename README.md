@@ -42,10 +42,24 @@ Buscando especializarme en el desarrollo backend con **Java** y **Spring Boot**,
 ## 📁 Proyectos
 
 ### 📱 Hogarya – Desarrollo móvil  
-Aplicación móvil desarrollada con **Flutter** y **Dart**, conectada a **Firebase** para autenticación, almacenamiento en la nube y sincronización en tiempo real.
+Aplicación móvil multiplataforma desarrollada con **Flutter** y **Dart**, enfocada en la gestión de tareas del hogar.  
+Utiliza **Firebase** para autenticación de usuarios, almacenamiento de imágenes y sincronización en tiempo real entre dispositivos.  
+Se enfoca en brindar una experiencia fluida y segura a los usuarios que comparten responsabilidades del hogar.
+
+---
 
 ### 🏥 Base de Datos IMSS – Colaboración académica  
-Participación en la investigación y diseño de una base de datos simulada para el IMSS, analizando requerimientos y modelado relacional.
+Proyecto académico orientado al análisis y diseño de una base de datos simulada del Instituto Mexicano del Seguro Social (**IMSS**).  
+Incluyó el levantamiento de requerimientos funcionales, modelado entidad-relación, normalización de tablas y generación de scripts SQL para su implementación.  
+Se trabajó en equipo siguiendo buenas prácticas de documentación y presentación de resultados.
+
+---
+
+### 🧪 API REST - Clon de Kickstarter  
+Desarrollo de una API REST con **Spring Boot**, que simula el funcionamiento de la plataforma **Kickstarter** para gestionar campañas de financiamiento colectivo.  
+Incluye integración con la **API de Mercado Pago** para realizar **pagos de prueba**, permitiendo simular transacciones reales en un entorno controlado.  
+Implementa roles de usuario, autenticación con JWT y operaciones CRUD completas para usuarios, campañas y aportaciones.  
+🔗 Repositorio del proyecto: [API-desarrollo-de-aplicaciones](https://github.com/alexnama759/API-desarrollo-de-aplicaciones)
 
 ---
 
@@ -60,3 +74,4 @@ Participación en la investigación y diseño de una base de datos simulada para
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=alexnama759&style=flat-square&color=blue" alt="Vistas del perfil"/>
 </p>
+
