@@ -56,7 +56,7 @@ Se trabajó en equipo siguiendo buenas prácticas de documentación y presentaci
 ---
 
 ### 🧪 API REST - Clon de Kickstarter  
-Desarrollo de una API REST con **Spring Boot**, que simula el funcionamiento de la plataforma **Kickstarter** para gestionar campañas de financiamiento colectivo.  
+Desarrollo de una API REST con **c# y .NET**, que simula el funcionamiento de la plataforma **Kickstarter** para gestionar campañas de financiamiento colectivo.  
 Incluye integración con la **API de Mercado Pago** para realizar **pagos de prueba**, permitiendo simular transacciones reales en un entorno controlado.  
 Implementa roles de usuario, autenticación con JWT y operaciones CRUD completas para usuarios, campañas y aportaciones.  
 🔗 Repositorio del proyecto: [API-desarrollo-de-aplicaciones](https://github.com/alexnama759/API-desarrollo-de-aplicaciones)
